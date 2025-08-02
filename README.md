@@ -11,7 +11,7 @@ Here are some ideas to get you started:
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Ritika Jangra</h1>
-         <h4 align= "center">A 3rd-year student pursuing BTech in Computer science studies with a specialization of AIML, from CGC Jhanjeri. </h4>
+         <h4 align= "center">🚀 B.Tech CSE (AI & ML) Graduate | Python & Django Developer | Frontend Explorer | AI Enthusiast </h4>
 <!-- intro hello world -->
 <h1 align="center">
  <img src="Webp/new.webp" width="40px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="Webp/new.webp" width="40px">
